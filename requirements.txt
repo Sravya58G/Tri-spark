@@ -1,0 +1,10 @@
+streamlit
+pyyaml
+python-dotenv
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+tqdm
+requests
